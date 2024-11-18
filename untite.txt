@@ -1,0 +1,9 @@
+Navbar
+Hero-section
+Marquee
+About
+Playful
+Card section
+card2
+ready to start
+footer
